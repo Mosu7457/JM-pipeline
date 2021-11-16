@@ -1,0 +1,13 @@
+package com.mycompany.com;
+
+/**
+ * HelloWorld
+ *
+ */
+public class App
+{
+	public static void main( string [] args )
+	{
+		System.out.println( "HelloWorld!" );
+	}
+}
